@@ -15,7 +15,7 @@
 }
 
 .mdl-textfield__error {
-  color: coral;
+  color: rgb(255 0 0);
 }
 
 .page-content {
@@ -37,7 +37,7 @@
 }
 
 body {
-  background-color: blanchedalmond;
+  background-color: rgb(223 198 38);
 }
 
 img {
